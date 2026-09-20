@@ -57,10 +57,6 @@ Não há processo de build — qualquer editor de texto (VS Code, por exemplo) e
 
 Depois disso, qualquer novo `git add . && git commit -m "..." && git push` atualiza o site publicado automaticamente.
 
-## ℹ️ Nota sobre o Lovable
-
-Você mencionou o Lovable — vale um esclarecimento: o Lovable gera projetos em React/Vite, hospedados na infraestrutura dele. Como você pediu especificamente **HTML/CSS/JS puro, pronto para Git local e GitHub Pages**, optei por esse formato, que é 100% portátil e não depende de nenhuma plataforma paga. Se no futuro você quiser migrar para o Lovable, este mesmo conteúdo (textos, estrutura de seções, paleta de cores) serve como briefing pronto para colar lá.
-
 ## ⚠️ Aviso importante
 
 Este site tem finalidade **informativa e educacional**. Não substitui consulta, diagnóstico ou prescrição médica. Toda pessoa interessada em tratamento com cannabis medicinal deve procurar orientação de um profissional de saúde habilitado.
