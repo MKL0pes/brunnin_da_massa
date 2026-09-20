@@ -64,3 +64,5 @@ Você mencionou o Lovable — vale um esclarecimento: o Lovable gera projetos em
 ## ⚠️ Aviso importante
 
 Este site tem finalidade **informativa e educacional**. Não substitui consulta, diagnóstico ou prescrição médica. Toda pessoa interessada em tratamento com cannabis medicinal deve procurar orientação de um profissional de saúde habilitado.
+
+[acesse brunnin da massa](https://mkl0pes.github.io/brunnin_da_massa/)
