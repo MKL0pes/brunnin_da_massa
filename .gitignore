@@ -1,0 +1,14 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+
+# Node (caso adicione ferramentas futuramente)
+node_modules/
+npm-debug.log*
+
+# Ambiente
+.env
