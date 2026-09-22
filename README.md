@@ -1,5 +1,5 @@
 # Brunnin da Massa
-
+ 
 Site informativo sobre cannabis medicinal — benefícios com respaldo científico, mitos vs. fatos, regulamentação no Brasil e um artigo completo com fontes citadas.
 
 Feito em HTML, CSS e JavaScript puros (sem frameworks, sem build step), pronto para publicar no GitHub Pages.
@@ -9,6 +9,8 @@ Feito em HTML, CSS e JavaScript puros (sem frameworks, sem build step), pronto p
 * **Paleta:** Verdes botânicos (floresta, musgo, sálvia) + âmbar quente, usando psicologia das cores — o verde transmite equilíbrio, crescimento e confiança; o âmbar traz clareza e calor humano aos pontos de ação.
 * **Tipografia:** *Fraunces* (serifada, orgânica) nos títulos + *Work Sans* no corpo do texto, carregadas via Google Fonts.
 * **Tom:** Informativo e honesto — o conteúdo separa claramente o que a ciência já confirma do que ainda é promessa, com fontes reais linkadas.
+
+## [acesse brunni da massa](https://mkl0pes.github.io/brunnin_da_massa/)
 
 ## 📁 Estrutura de pastas
 
@@ -24,5 +26,5 @@ brunnin-da-massa/
 ├── README.md
 └── .gitignore
 
-# [acesse brunni da massa](https://mkl0pes.github.io/brunnin_da_massa/)
+
 
